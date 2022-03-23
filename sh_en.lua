@@ -75,6 +75,7 @@ if Lyth_Pulsar.Config.Language == "en" then
     lang["CreateNewItemDesc"] = "Create a new item!"
 
     lang["handlingPackage"] = "Handling package %s for %s with action %s"
+    lang["packageFailed"] = "Failed to give package %s to %s"
     lang["armorFailed"] = "Failed to give %s AP to %s"
     lang["concommandFailed"] = "Failed to run command: %s"
     lang["entityFailed"] = "Failed spawn entity %s"
