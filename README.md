@@ -9,3 +9,4 @@ languages for pulsar-store :grin:
 4. Commit your Changes
 5. Push to the Branch
 6. Open a Pull Request
+7. DM Lythium#4848 on discord for a 15% discount
