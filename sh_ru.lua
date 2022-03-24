@@ -3,6 +3,7 @@ Lyth_Pulsar.Lang = Lyth_Pulsar.Lang or {}
 Lyth_Pulsar.Config = Lyth_Pulsar.Config or {}
 local lang = Lyth_Pulsar.Lang
 
+if Lyth_Pulsar.Config.Language == "ru" then
     lang["Next"] = "Далее"
     lang["Back"] = "Назад"
     lang["noAdminMod"] = "Не найдено поддерживаемых админ модов. Пожалуйста, создайте тикет"
@@ -101,3 +102,4 @@ local lang = Lyth_Pulsar.Lang
 
     lang["ULXGiveCredits"] = "#A выдал #T #s #s"
     lang["ULXRemoveCredits"] = "#A снял #s #s из #T"
+end
