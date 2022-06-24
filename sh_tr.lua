@@ -73,7 +73,7 @@ if Lyth_Pulsar.Config.Language == "tr" then
     lang["rankFailed"] = "%s rütbesi %s kişisine verilemdi"
     lang["weaponFailed"] = "%s silahı %s kişisine verilemdi"
 
- 
+
     lang["areYouSure"] = "Emin misin?"
     lang["purchaseConfirm1L1"] = "Bunu satın almak istediğinden emin misin"
     lang["purchaseConfirm1L2"] = "'%s' eşyasını %s krediye?"
@@ -101,4 +101,12 @@ if Lyth_Pulsar.Config.Language == "tr" then
 
     lang["ULXGiveCredits"] = "#A verdi #T #s #s"
     lang["ULXRemoveCredits"] = "#A #T kişisinden sildi #s #s"
+
+    lang["CreditsAmount"] = "Credits Amount"
+    lang["EnterCreditAmount"] = "Enter Credit Amount"
+    lang["MoneyAmount"] = "Money Amount"
+    lang["EnterMoneyAmount"] = "Enter Money Amount"
+    lang["ConversionRate"] = "Rate: $%s = 1 credit"
+    lang["Other"] = "Other"
+
 end

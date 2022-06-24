@@ -102,4 +102,12 @@ if Lyth_Pulsar.Config.Language == "es" then
 
     lang["ULXGiveCredits"] = "#A le ha dado a #T #s #s"
     lang["ULXRemoveCredits"] = "#A ha removido #s #s de #T"
+
+    lang["CreditsAmount"] = "Credits Amount"
+    lang["EnterCreditAmount"] = "Enter Credit Amount"
+    lang["MoneyAmount"] = "Money Amount"
+    lang["EnterMoneyAmount"] = "Enter Money Amount"
+    lang["ConversionRate"] = "Rate: $%s = 1 credit"
+    lang["Other"] = "Other"
+
 end
