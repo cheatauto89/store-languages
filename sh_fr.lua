@@ -124,4 +124,11 @@ if Lyth_Pulsar.Config.Language == "fr" then
     lang["reviewText2"] = "Aller à"
     lang["reviewText3"] = " ou tapper?"
     lang["reviewThanks"] = "Merci d'avoir laisser une review sur Pulsar ! "
+
+    lang["CreditsAmount"] = "Credits Amount"
+    lang["EnterCreditAmount"] = "Enter Credit Amount"
+    lang["MoneyAmount"] = "Money Amount"
+    lang["EnterMoneyAmount"] = "Enter Money Amount"
+    lang["ConversionRate"] = "Rate: $%s = 1 credit"
+    lang["Other"] = "Other"
 end
