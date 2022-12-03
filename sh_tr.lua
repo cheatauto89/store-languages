@@ -109,4 +109,8 @@ if Lyth_Pulsar.Config.Language == "tr" then
     lang["ConversionRate"] = "Rate: $%s = 1 credit"
     lang["Other"] = "Other"
 
+    lang["MoneyCredits"] = "Money => Credits"
+    lang["CreditsMoney"] = "Credits => Money"
+
+    lang["Discount"] = "% off!"
 end

@@ -131,4 +131,9 @@ if Lyth_Pulsar.Config.Language == "fr" then
     lang["EnterMoneyAmount"] = "Entrez un montant d'argent"
     lang["ConversionRate"] = "Taux : $%s = 1 crédit"
     lang["Other"] = "Autre"
+
+    lang["MoneyCredits"] = "Money => Credits"
+    lang["CreditsMoney"] = "Credits => Money"
+
+    lang["Discount"] = "% off!"
 end
