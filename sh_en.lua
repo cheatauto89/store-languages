@@ -3,7 +3,7 @@ Lyth_Pulsar.Lang = Lyth_Pulsar.Lang or {}
 Lyth_Pulsar.Config = Lyth_Pulsar.Config or {}
 local lang = Lyth_Pulsar.Lang
 
-if Lyth_Pulsar.Config.Language == "en" then
+if (not Lyth_Pulsar.Config.Language) or Lyth_Pulsar.Config.Language == "en" then
     lang["Next"] = "Next"
     lang["Back"] = "Back"
     lang["noAdminMod"] = "No supported admin mod found. Please create a support ticket"
