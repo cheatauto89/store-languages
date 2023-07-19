@@ -135,6 +135,6 @@ if Lyth_Pulsar.Config.Language == "fr" then
     lang["MoneyCredits"] = "Money => Credits"
     lang["CreditsMoney"] = "Credits => Money"
 
-    lang["Discount"] = "% off!"
-    lang["ForcedPerma"] = "This package cannot be permanent or is already permanent."
+    lang["Discount"] = "% de réduction!"
+    lang["ForcedPerma"] = "Cet objet ne peut pas être permanent ou est déjà permanent."
 end
