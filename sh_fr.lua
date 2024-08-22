@@ -12,8 +12,8 @@ if Lyth_Pulsar.Config.Language == "fr" then
     lang["notifyMessageSuccessName"] = "Don de %s crédits à %s !"
     lang["failedToGive"] = "Impossible de donner des crédits à %s"
 
-    lang["failedNegative"] = "Impossible d'enlever des crédits à %s car ils seraient négatifs"
-    lang["failedNegativeNotify"] = "Impossible d'enelever des crédits ! Ce joueur n'en a aucun"
+    lang["failedNegative"] = "Impossible d'enlever des crédits à %s car le joueur serrai en négatifs"
+    lang["failedNegativeNotify"] = "Impossible d'enlever des crédits ! Ce joueur n'en a aucun"
     lang["takeNotifySuccess"] = "Prise de %s credits sur le compte de %s!"
     lang["takeFailed"] = "Erreur en enelevant des crédits à %s"
     lang["RateLimit"] = "Trop de requêtes ! Patientez un peu !"
